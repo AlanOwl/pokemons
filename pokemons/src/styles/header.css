@@ -1,0 +1,33 @@
+.header {
+	max-width: 1200px;
+	width: 100%;
+	margin: 50px auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+.header__top{
+	margin-bottom: 100px;
+}
+
+.header__content {
+	width: inherit;
+}
+
+.input-text {
+	border: 1px solid black;
+	padding: 3px;
+	margin-left: 10px;
+}
+
+.input-btn {
+	border: 1px solid black;
+	margin-left: 10px;
+	padding: 3px;
+}
+
+.form {
+	font-size: 18px;
+}
